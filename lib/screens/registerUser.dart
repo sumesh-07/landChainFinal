@@ -351,7 +351,7 @@ class _RegisterUserState extends State<RegisterUser> {
                         if (value == null || value.isEmpty) {
                           return 'Please enter Pan Number';
                         } else if (value.length != 10)
-                          return 'Please enter Valid Adhar number';
+                          return 'Please enter Valid Pan number';
                         return null;
                       },
                       style: const TextStyle(

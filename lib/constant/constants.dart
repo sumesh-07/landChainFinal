@@ -9,6 +9,6 @@ const String rpcUrl =
     "HTTP://127.0.0.1:7545";
 
 const String contractAddress =
-    "0x64C472DB0Cce6DA403fb7c10F79Ddc04D97Be1b5"; // old contract - "0xD4b1d68BC19761a3831dF7a2B94eE652a8f246D3";
+    "0xC631F9e6E4215c95391e9Ea295dDEdff66E8eCbB"; // old contract - "0xD4b1d68BC19761a3831dF7a2B94eE652a8f246D3";
 
 const int chainId = 1337; //Polygon testnet-80001, local ganache-1337
